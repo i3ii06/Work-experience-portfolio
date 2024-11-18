@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Experience Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="reflection.html">Reflection</a></li>
+                <li><a href="preparation.html">Preparation</a></li>
+                <li><a href="plan.html">Work Plan</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Welcome to My Work Experience Portfolio</h1>
+        <p>Hi, I'm Abdur Rafay. This portfolio demonstrates the benefits of my work experience in the engineering sector.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Abdur Rafay</p>
+    </footer>
+</body>
+</html>
